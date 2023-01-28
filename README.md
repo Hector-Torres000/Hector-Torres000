@@ -19,7 +19,7 @@
 I am a Front End Web Developer located in Los Angeles, CA.
 - Currently volunteering for Hack for La.
 - Twitch streamer figuring out coding problems and web dev challenges.
-- Checkout my <a href="https://hector-torres000.github.io/portfolio/">portfolio</a>
+- Checkout my <a href="https://hector-torres000.github.io/portfolio/">portfolio</a>.
 
 ---
 ### Languages and Tools:
